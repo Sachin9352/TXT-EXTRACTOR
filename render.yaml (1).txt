@@ -6,13 +6,13 @@ services:
     startCommand: "python bot.py"
     envVars:
       - key: API_ID
-        value: "your_api_id"
+        value: "25030447"
       - key: API_HASH
-        value: "your_api_hash"
+        value: "4fa50720e0d5194c515d1586ddfc0b20"
       - key: BOT_TOKEN
         value: "your_bot_token"
       - key: OWNER_ID
-        value: "your_owner_id"
+        value: "1474446809"
       - key: SUDO_USERS
         value: "your_sudo_users"
       - key: MONGO_URL
